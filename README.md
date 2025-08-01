@@ -3,6 +3,7 @@
 > 제약회사 QC 경력을 바탕으로 개발에 뛰어든 박희수입니다.  
 > 애자일 협업을 통해 요구사항 분석부터 테스트까지 소프트웨어 생명 주기를 경험했습니다.  
 > 표준화된 문서 기반으로 업무 프로세스를 설계·관리하는 데 강점이 있습니다.
+<br>
 
 ## 🛠️ 기술 스택
 
@@ -11,6 +12,7 @@
 * **Database**: MariaDB · Oracle
 * **Tools**: Eclipse · IntelliJ IDEA · JUnit 5 · Postman · Swagger
 * **Collaboration**: Git · GitHub · Jira · Confluence · Notion · Slack · Figma
+<br>
 
 ## 🚀 주요 프로젝트
 
@@ -44,7 +46,7 @@
 >> * **해결 방안**: JWT 기반 인증 구조를 설계해 사용자 인증 흐름을 토큰 중심으로 구현
 >>
 >> [![GitHub](https://img.shields.io/badge/Backend-GitHub-000000?logo=github&logoColor=white&labelColor=000000)](https://github.com/liaparkel/team-selfit-server)
->> [![GitHub](https://img.shields.io/badge/Frontend-GitHub-white?logo=github&logoColor=000000&labelColor=white)](https://github.com/liaparkel/team-selfit-ui-node)
+> > [![GitHub](https://img.shields.io/badge/Frontend-GitHub-white?logo=github&logoColor=000000&labelColor=white)](https://github.com/liaparkel/team-selfit-ui-node)
 >
 > #### 🗂️ Sprint 3: MSA 기반 (2025.06.30 ~ 2025.07.15)
 >
@@ -52,5 +54,10 @@
 >> * **해결 방안**: RestTemplate을 사용하여 JSON 기반의 HTTP 통신 방식으로 데이터 연동
 >>
 >> [![GitHub](https://img.shields.io/badge/Backend-GitHub-000000?logo=github&logoColor=white&labelColor=000000)](https://github.com/liaparkel/tema-selfit-msa)
->> [![GitHub](https://img.shields.io/badge/Frontend-GitHub-white?logo=github&logoColor=000000&labelColor=white)](https://github.com/liaparkel/team-selfit-msa-ui)
+> > [![GitHub](https://img.shields.io/badge/Frontend-GitHub-white?logo=github&logoColor=000000&labelColor=white)](https://github.com/liaparkel/team-selfit-msa-ui)
 </details>
+<br>
+
+## 📞 연락처
+
+* liaparkel@gmail.com
