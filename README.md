@@ -53,7 +53,7 @@
 >> * **핵심 과제**: 모놀리식 구조에서 마이크로 서비스 변화로 서비스 간 직접적인 호출 불가
 >> * **해결 방안**: RestTemplate을 사용하여 JSON 기반의 HTTP 통신 방식으로 데이터 연동
 >>
->> [![GitHub](https://img.shields.io/badge/Backend-GitHub-000000?logo=github&logoColor=white&labelColor=000000)](https://github.com/liaparkel/tema-selfit-msa)
+>> [![GitHub](https://img.shields.io/badge/Backend-GitHub-000000?logo=github&logoColor=white&labelColor=000000)](https://github.com/liaparkel/team-selfit-msa)
 > > [![GitHub](https://img.shields.io/badge/Frontend-GitHub-white?logo=github&logoColor=000000&labelColor=white)](https://github.com/liaparkel/team-selfit-msa-ui)
 </details>
 <br>
